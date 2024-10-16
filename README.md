@@ -1,12 +1,3 @@
-https://github.com/gvrrvenkat/APIAutomation
-https://github.com/gvrrvenkat/APITestProject
-
-
-.Net Core 3.1
-Microsoft.Net.Test.Sdk(16.9.4)
-NUnit(3.13.1)
-NUnit3TestAdapter(3.17.0)
-
 This is a NUnit-based test framework that uses c-sharp, .NET Core(3.1), Selenium, NUnit(3.13.1) and NUnit3TestAdapter(3.17.0)
 
 What is NUnit?
@@ -33,7 +24,4 @@ How to run command line
 		dotnet test BossTestFramework.dll
 	- for more info see https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test
 
-Best practices
-	- Use Feature folder for features, and Steps folder for steps.
-	- Be careful with steps (simple missing word like 'the' can cause new step-def.
-	- You can use Specflow->Hooks to setup Before/AfterScenario, Before/AfterStep.
+
